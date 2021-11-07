@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hasmasan_Andrei_Lab5", "Hasmasan_Andrei_Lab5.csproj", "{55E1C640-A9CC-4A3A-884D-1F579D1F0A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{19915445-9112-47F5-B700-6BE6A8B8585C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E1C640-A9CC-4A3A-884D-1F579D1F0A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E1C640-A9CC-4A3A-884D-1F579D1F0A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E1C640-A9CC-4A3A-884D-1F579D1F0A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E1C640-A9CC-4A3A-884D-1F579D1F0A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19915445-9112-47F5-B700-6BE6A8B8585C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19915445-9112-47F5-B700-6BE6A8B8585C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19915445-9112-47F5-B700-6BE6A8B8585C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19915445-9112-47F5-B700-6BE6A8B8585C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D02FE4E0-6E07-4693-BF2B-E42EC7B7E609}
+	EndGlobalSection
+EndGlobal

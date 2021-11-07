@@ -1,0 +1,13 @@
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\AutoLotEntitiesModel.mdf
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\AutoLotEntitiesModel_log.ldf
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\AutoLotModel.dll.config
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\AutoLotModel.dll
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\AutoLotModel.pdb
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\EntityFramework.dll
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\EntityFramework.xml
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\obj\Debug\AutoLotModel.csproj.AssemblyReference.cache
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\obj\Debug\AutoLotModel.csproj.CoreCompileInputs.cache
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\obj\Debug\AutoLotModel.dll
+D:\FSEGA\Anul 3\Medii de programare\Laborator 5\AutoLotModel\obj\Debug\AutoLotModel.pdb
