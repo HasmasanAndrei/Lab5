@@ -25,3 +25,31 @@ D:\FSEGA\Anul 3\Medii de programare\Laborator 5\Hasmasan_Andrei_Lab5\obj\Debug\H
 D:\FSEGA\Anul 3\Medii de programare\Laborator 5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.csproj.CoreCompileInputs.cache
 D:\FSEGA\Anul 3\Medii de programare\Laborator 5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.exe
 D:\FSEGA\Anul 3\Medii de programare\Laborator 5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.pdb
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\AutoLotEntitiesModel.mdf
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\AutoLotEntitiesModel_log.ldf
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\AutoLot.mdf
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\AutoLot_log.ldf
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\Hasmasan_Andrei_Lab5.exe.config
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\Hasmasan_Andrei_Lab5.exe
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\Hasmasan_Andrei_Lab5.pdb
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\AutoLotModel.dll
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\EntityFramework.dll
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\AutoLotModel.pdb
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\AutoLotModel.dll.config
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\EntityFramework.xml
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5_Content.g.cs
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5_MarkupCompile.cache
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5_MarkupCompile.lref
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.g.resources
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.Properties.Resources.resources
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.csproj.CopyComplete
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.exe
+C:\Users\andre\Desktop\Lab5-main\Lab5\Hasmasan_Andrei_Lab5\obj\Debug\Hasmasan_Andrei_Lab5.pdb

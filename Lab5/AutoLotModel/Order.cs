@@ -12,7 +12,7 @@ namespace AutoLotModel
         public int OrderId { get; set; }
 
         public int? Custid { get; set; }
-
+        public int CustId { get; set; }
         public int? CarId { get; set; }
     }
 }
